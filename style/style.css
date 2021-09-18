@@ -11,12 +11,7 @@ h1 {
 } 
 
 
-div.opis  {
-    padding: 15px;
-    text-align: center;
-    font-size:8px;
 
-}
 
 div.galerija {
     margin: 5px;
@@ -30,10 +25,12 @@ div.galerija {
 
   }
   div.opis {
-    padding: 15px;
+    padding: 2px;
     text-align: left;
+    font-size: 8px;
   }
 h2{
     text-align: left;
     color: blue;
+    font-size: 9px;
 }
