@@ -1,6 +1,6 @@
 h1 {
     text-align: center;
-    color: red;
+    color:red;
 }
 .container {
     display: grid;
@@ -31,6 +31,6 @@ div.galerija {
   }
 h2{
     text-align: left;
-    color: blue;
+    color:lightblue;
     font-size: 9px;
 }
