@@ -27,9 +27,10 @@ div.gallery {
   }
   div.desc {
     padding: 2px;
-    text-align: left;
+    text-align: justify;
     font-size: 8px;
-  margin: auto;
+   ;
+   
   }
 h2{
     text-align: left;
